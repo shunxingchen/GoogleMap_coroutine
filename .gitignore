@@ -1,0 +1,14 @@
+local.properties
+latest_customization.txt
+build/
+.directory
+.idea
+.DS_Store
+.gradle
+*.iml
+generated
+intermediates
+logs
+*.pyc
+*.apk
+*.dex
